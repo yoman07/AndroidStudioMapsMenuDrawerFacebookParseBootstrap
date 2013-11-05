@@ -1,0 +1,8 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="green_zdobywacz">#04a35b</color>
+    <color name="actionbar_text">#cdedde</color>
+    <color name="navigation_drawer_background_color">#1e1e1e</color>
+    <color name="navigation_drawer_text">#ffffff</color>
+</resources>
