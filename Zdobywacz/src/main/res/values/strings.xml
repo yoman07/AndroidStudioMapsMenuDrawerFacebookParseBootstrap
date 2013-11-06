@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Zdobywacz</string>
+    <string name="app_name">Bootstrap project</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="title_activity_main">MainActivity</string>
-    <string name="title_section1">Mapa</string>
-    <string name="title_section2">Zaplanowane trasy</string>
-    <string name="title_section3">Przebyte trasy</string>
-    <string name="title_section4">Profil</string>
+    <string name="title_section1">title 1</string>
+    <string name="title_section2">title 2y</string>
+    <string name="title_section3">title 3</string>
+    <string name="title_section4">title 4</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="action_example">Example action</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_non_logged">Example</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="show_other_options">Show other options</string>
+    <string name="login_text">Login</string>
+    <string name="register_text">Register</string>
+    <string name="action_logout_short">Logout</string>
 
 </resources>
