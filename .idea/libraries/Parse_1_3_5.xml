@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="Parse-1.3.5">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Zdobywacz/libs/Parse-1.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/example/libs/Parse-1.3.5.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

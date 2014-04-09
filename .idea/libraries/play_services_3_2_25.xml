@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="play-services-3.2.25">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/example/build/exploded-aar/com.google.android.gms/play-services/3.2.25/res" />
+      <root url="jar://$PROJECT_DIR$/example/build/exploded-aar/com.google.android.gms/play-services/3.2.25/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,1 +1,1 @@
-include ':libraries:facebook', ':Zdobywacz'
+include ':libraries:facebook', 'example'
